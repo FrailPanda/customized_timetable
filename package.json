@@ -1,0 +1,32 @@
+{
+  "name": "customized-timetable",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "dependencies": {
+    "cookie-parser": "~1.4.4",
+    "debug": "~2.6.9",
+    "express": "~4.16.1",
+    "http-errors": "~1.6.3",
+    "jade": "~1.11.0",
+    "morgan": "~1.9.1"
+  },
+  "description": "making customized timetable! -Sejong Univ Version",
+  "main": "app.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FrailPanda/customized_timetable.git"
+  },
+  "keywords": [
+    "node.js"
+  ],
+  "author": "r011ing_s70n3@naver.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FrailPanda/customized_timetable/issues"
+  },
+  "homepage": "https://github.com/FrailPanda/customized_timetable#readme"
+}
